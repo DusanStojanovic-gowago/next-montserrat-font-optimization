@@ -5,11 +5,6 @@ export default function Document() {
     <Html>
       <Head>
         <link
-          rel="preconnect"
-          href="https://fonts.gstatic.com/"
-          crossOrigin="anonymous"
-        />
-        <link
           href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600&amp;subset=latin-ext&amp;display=swap"
           rel="stylesheet"
         />
